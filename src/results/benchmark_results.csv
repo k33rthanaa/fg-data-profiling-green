@@ -1,0 +1,11 @@
+variant,input_size_mb,run,wall_time_s,peak_memory_mb,load_memory_mb,cpu_time_s
+baseline,20,1,0.6256,47.78,19.85,0.62
+baseline,20,2,0.5396,47.47,19.7,0.54
+baseline,20,3,0.5394,47.47,19.7,0.53
+baseline,20,4,0.5421,47.47,19.7,0.54
+baseline,20,5,0.5698,47.47,19.7,0.57
+optimized,20,1,0.2025,10.25,2.26,0.2
+optimized,20,2,0.167,10.16,2.15,0.17
+optimized,20,3,0.2678,10.16,2.15,0.25
+optimized,20,4,0.1992,10.16,2.15,0.19
+optimized,20,5,0.1971,10.16,2.15,0.19

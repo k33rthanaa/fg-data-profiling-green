@@ -1,0 +1,13 @@
+# Core data stack
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7
+
+# Profiling library (fg-data-profiling — community fork of ydata-profiling)
+# Install via: pip install fg-data-profiling
+# Imported as: from ydata_profiling import ProfileReport
+fg-data-profiling>=4.18
+
+# System & energy measurement
+psutil>=5.9
+codecarbon>=2.3        # optional — used for energy measurement; falls back to CPU-time × TDP if unavailable
