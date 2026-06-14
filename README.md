@@ -2,7 +2,7 @@
 
 **49–64% faster. 88% less load memory. Zero changes to the library.**
 
-This project applies green-software strategies to [fg-data-profiling](https://github.com/Data-Centric-AI-Community/fg-data-profiling) — a widely used automated EDA library with ~13,600 GitHub stars — and achieves substantial energy and runtime savings purely from the *caller side*, without modifying any library internals.
+This project applies green-software strategies to [fg-data-profiling](https://github.com/Data-Centric-AI-Community/fg-data-profiling)  a widely used automated EDA library with ~13,600 GitHub stars and achieves substantial energy and runtime savings purely from the *caller side*, without modifying any library internals.
 
 Conducted as part of NWI-IMC019 Green Software at Radboud University (Group 14).
 
